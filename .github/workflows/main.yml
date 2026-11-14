@@ -1,2 +1,0 @@
-- name: Extract ZIP file
-  run: unzip file.zip -d output_folder
