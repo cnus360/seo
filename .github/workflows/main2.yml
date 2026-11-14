@@ -1,0 +1,2 @@
+- name: Extract ZIP file
+  run: unzip seo-proposal-client2.zip
